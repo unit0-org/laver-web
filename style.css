@@ -1,0 +1,11 @@
+.hero {
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+:root {
+    --pico-typography-spacing-vertical: 1.5rem;
+}
